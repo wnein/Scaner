@@ -26,7 +26,7 @@ Just supply a domain name to **Scaner** and it will automatically do the followi
 git clone https://github.com/wnein/Scaner
 cd Scaner
 unzip plugins.rar
-put on folder Scaner
+Extract Here Scaner/
 pip install -r requirements.txt
 python Scaner.py
 ```
